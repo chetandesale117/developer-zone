@@ -10,14 +10,25 @@ const Projects = () => {
 
   const projects = [
     {
-      title: "Education Advisor Web Application",
-      description:
-        "A full-stack career guidance platform helping students explore courses and career paths. Features AI-powered recommendations using scikit-learn and TensorFlow for personalized course suggestions.",
-      image: "../images/hero-education.jpg",
-      technologies: ["React", "Node.js", "Express", "MongoDB", "TensorFlow", "scikit-learn"],
-      liveUrl: "#",
-      githubUrl: "#",
-    },
+  title: "Crop Recommendation",
+  description:
+    "An intelligent crop recommendation system leveraging machine learning to suggest the best crops based on soil type, weather conditions, and region. Built with React, Node.js, Express, MongoDB, TensorFlow, and scikit-learn for smart agricultural decision-making.",
+  image: "https://images.unsplash.com/photo-1560493676-04071c5f467b?auto=format&fit=crop&w=1200&q=80",
+  technologies: ["React", "TypeScript", "SupaBase", "TensorFlow", "scikit-learn"],
+  liveUrl: "#",
+  githubUrl: "#",
+},
+{
+  title: "Education Advisor Web Application",
+  description:
+    "A full-stack career guidance platform helping students explore courses and career paths. Features AI-powered recommendations using scikit-learn and TensorFlow for personalized course suggestions.",
+  image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80",
+  technologies: ["React", "TypeScript", "SupaBase", "TensorFlow", "scikit-learn"],
+  liveUrl: "#",
+  githubUrl: "#",
+}
+
+,
     {
       title: "Real-Time Chat Application",
       description:

@@ -6,17 +6,17 @@ const Footer = () => {
   const socialLinks = [
     {
       icon: Github,
-      href: "https://github.com/yourusername",
+      href: "https://github.com/chetandesale117",
       label: "GitHub",
     },
     {
       icon: Linkedin,
-      href: "https://linkedin.com/in/yourusername",
+      href: "https://linkedin.com/in/chetan-desale117",
       label: "LinkedIn",
     },
     {
       icon: Mail,
-      href: "mailto:your.email@example.com",
+      href: "mailto:chetandesale117@gmail.com",
       label: "Email",
     },
   ];
@@ -44,9 +44,7 @@ const Footer = () => {
           {/* Copyright */}
           <div className="text-center">
             <p className="text-muted-foreground flex items-center gap-2 justify-center">
-              © {currentYear} Your Name. Made with{" "}
-              <Heart className="w-4 h-4 text-red-500 fill-red-500 animate-pulse" />{" "}
-              using React & Tailwind CSS
+              © {currentYear} Chetan Desale.Using React & Tailwind CSS
             </p>
           </div>
 

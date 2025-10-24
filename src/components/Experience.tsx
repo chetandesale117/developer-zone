@@ -25,9 +25,23 @@ const Experience = () => {
     {
       type: "work",
       icon: Briefcase,
+      title: "Crop Recommenddation",
+      company: "AI powered project",
+      period: "Mar 2025 - Apr 2025",
+      description:
+        "Developed a responsive web application to help farmer for crop recommendatrtion, modern interface.",
+      achievements: [
+        "Built with React.js + typescript + vite, supabase(Postgres)",
+        "Implemented RESTful API endpoints",
+        "Styled with Tailwind CSS and DaisyUI",
+      ],
+    },
+    {
+      type: "work",
+      icon: Briefcase,
       title: "Real-Time Chat Application",
       company: "MERN Stack Project",
-      period: "Mar 2025 - Apr 2025",
+      period: "Jan 2025 - Feb 2025",
       description:
         "Built a real-time messaging platform using MERN stack with Socket.io for instant communication, featuring modern UI and comprehensive chat features.",
       achievements: [
@@ -55,7 +69,7 @@ const Experience = () => {
       icon: Briefcase,
       title: "Book Store Web Application",
       company: "MERN Stack Project",
-      period: "Jan 2025 - Feb 2025",
+      period: "Mar 2024 - Apr 2024",
       description:
         "Developed a responsive web application to display book collections fetched from MongoDB database with clean, modern interface.",
       achievements: [
@@ -64,20 +78,7 @@ const Experience = () => {
         "Styled with Tailwind CSS and DaisyUI",
       ],
     },
-    {
-      type: "work",
-      icon: Briefcase,
-      title: "Crop Recommenddation",
-      company: "AI powered project",
-      period: "Jan 2025 - Feb 2025",
-      description:
-        "Developed a responsive web application to help farmer for crop recommendatrtion, modern interface.",
-      achievements: [
-        "Built with React.js + typescript + vite, supabase(Postgres)",
-        "Implemented RESTful API endpoints",
-        "Styled with Tailwind CSS and DaisyUI",
-      ],
-    },
+    
     {
       type: "education",
       icon: GraduationCap,
