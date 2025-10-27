@@ -15,8 +15,8 @@ const Projects = () => {
     "An intelligent crop recommendation system leveraging machine learning to suggest the best crops based on soil type, weather conditions, and region. Built with React, Node.js, Express, MongoDB, TensorFlow, and scikit-learn for smart agricultural decision-making.",
   image: "https://images.unsplash.com/photo-1560493676-04071c5f467b?auto=format&fit=crop&w=1200&q=80",
   technologies: ["React", "TypeScript", "SupaBase", "TensorFlow", "scikit-learn"],
-  liveUrl: "#",
-  githubUrl: "#",
+  liveUrl: "https://crop-recommendation-inky.vercel.app/",
+  githubUrl: "https://github.com/chetandesale117/crop-recommendation",
 },
 {
   title: "Education Advisor Web Application",
@@ -24,8 +24,8 @@ const Projects = () => {
     "A full-stack career guidance platform helping students explore courses and career paths. Features AI-powered recommendations using scikit-learn and TensorFlow for personalized course suggestions.",
   image: "https://images.unsplash.com/photo-1553877522-43269d4ea984?auto=format&fit=crop&w=1200&q=80",
   technologies: ["React", "TypeScript", "SupaBase", "TensorFlow", "scikit-learn"],
-  liveUrl: "#",
-  githubUrl: "#",
+  liveUrl: "https://ai-basedguidance.vercel.app/",
+  githubUrl: "https://github.com/chetandesale117/career-guidance-117",
 }
 
 ,
@@ -36,7 +36,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?w=800&h=600&fit=crop",
       technologies: ["React", "Node.js", "Socket.io", "MongoDB", "Zustand", "Tailwind CSS"],
       liveUrl: "#",
-      githubUrl: "#",
+      githubUrl: "https://github.com/chetandesale117/chat-app",
     },
     {
       title: "Barber Appointment Booking System",
@@ -54,7 +54,7 @@ const Projects = () => {
       image: "https://images.unsplash.com/photo-1507842217343-583bb7270b66?w=800&h=600&fit=crop",
       technologies: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "DaisyUI"],
       liveUrl: "#",
-      githubUrl: "#",
+      githubUrl: "https://github.com/chetandesale117/Book-Store",
     },
   ];
 
