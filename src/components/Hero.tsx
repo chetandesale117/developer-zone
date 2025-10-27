@@ -56,9 +56,8 @@ const Hero = () => {
               transition={{ delay: 0.6 }}
               className="text-lg text-muted-foreground mb-8 max-w-2xl"
             >
-              MCA student and Full Stack MERN Developer from Dhule, Maharashtra. 
-              Department Topper with 9.47 CGPA, specializing in building scalable web 
-              applications. Winner of 2nd Rank at Avishkar 2025 - Zonal Level.
+              Currently pursuing my Master of Computer Applications at SVKM's Institute Of Technology, 
+              I specialize in building scalable web applications using the MERN stack.
             </motion.p>
 
             <motion.div

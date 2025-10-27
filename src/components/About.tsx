@@ -53,13 +53,7 @@ const About = () => {
                   I'm Chetan Desale, a passionate Full Stack Developer based in Dhule, Maharashtra.
                   Currently pursuing my Master of Computer Applications at SVKM's Institute Of Technology,
                   I specialize in building scalable web applications using the MERN stack.
-                </p>
-                <p className="text-muted-foreground mb-4 leading-relaxed">
-                  As a Department Topper (9.90 CGPA in principal subjects) with an overall CGPA of 9.47
-                  from my Bachelor's in Computer Science, I've demonstrated strong technical expertise.
-                  I recently secured <strong>2nd Rank at Avishkar 2025 - Zonal Level</strong> and
-                  participated at University Level, showcasing my innovative approach to problem-solving.
-                </p>
+                </p>    
                 <p className="text-muted-foreground leading-relaxed">
                   My expertise spans across frontend technologies like React and Redux, backend development
                   with Node.js and Express, databases including MongoDB and MySQL, and cloud platforms like AWS.

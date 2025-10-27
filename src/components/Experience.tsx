@@ -135,7 +135,7 @@ const Experience = () => {
         "Recognized for innovative solution",
       ],
     },
-    {
+    /*{
       type: "achievement",
       icon: Award,
       title: "Department Topper",
@@ -148,7 +148,7 @@ const Experience = () => {
         "Overall CGPA: 9.47",
         "Department Topper recognition",
       ],
-    },
+  },*/
   ];
 
   const getIconColor = (type: string) => {
